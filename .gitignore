@@ -1,3 +1,6 @@
 # Compiled Source #
 *.exe
 *.o
+
+# Text/Presentation Files #
+*.pptx
